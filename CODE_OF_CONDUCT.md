@@ -17,7 +17,10 @@ Privacy Protection: Respect users' privacy and comply with data protection regul
 
 ## Contributions
 
-Welcoming Contributions: Welcome and value feedback and contributions from others. Make contribution guidelines clear and provide an accessible environment for participation. 5. Transparency and Accountability
+Welcoming Contributions: Welcome and value feedback and contributions from others. Make contribution guidelines clear and provide an accessible environment for participation.
+
+## Transparency and Accountability
+
 Transparency in Development Process: Keep the development process as open as possible and share the reasoning behind decisions.
 Acknowledging Mistakes: If mistakes or inappropriate behavior are recognized, it is your responsibility to admit and correct them.
 
